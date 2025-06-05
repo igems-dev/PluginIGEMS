@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginIGEMS", "PluginIGEMS.csproj", "{3F02BB62-2502-4ED8-97C9-686F0A92E572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F02BB62-2502-4ED8-97C9-686F0A92E572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F02BB62-2502-4ED8-97C9-686F0A92E572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F02BB62-2502-4ED8-97C9-686F0A92E572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F02BB62-2502-4ED8-97C9-686F0A92E572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD8DD695-2C67-4979-A5C6-C9048E205CA7}
+	EndGlobalSection
+EndGlobal
